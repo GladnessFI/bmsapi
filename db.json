@@ -1,18 +1,19 @@
 {
-  "details: {
-    "name": "typicode"
-  },
   "points": [
-	"id": "1",
-	"value": 23.1
-	},
-	{
-	"id": "2",
-	"value": 23.2
-	},
-	{
-	"id": "3",
-	"value": 23.3
-	}
-  ]
+    {
+      "id": 1,
+      "value": 23.1
+    },
+    {
+      "id": 2,
+      "value": 23.2
+    },
+    {
+      "id": 3,
+      "value": 23.3
+    }
+  ],
+  "details": {
+    "created": "2012-04-23T18:25:43.511Z"
+  }
 }
